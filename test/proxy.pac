@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:7070; SOCKS 127.0.0.1:7070; DIRECT;";
 
 var domains = {
+  "python.org": 1,
   "blockchain.info": 1,
   "gimpshop.com": 1, 
   "directcreative.com": 1, 
